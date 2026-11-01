@@ -1,5 +1,7 @@
 # Excel Sales Tracker
 
+> **Key finding:** Electronics drive 51.1% of net revenue; February dipped −40.6% month over month before March recovered +37.4%. Full write-up: [ANALYSIS.md](ANALYSIS.md).
+
 A workbook design for tracking weekly retail sales: one raw data sheet,
 formula-driven summaries, and pivot tables for month, region, and product
 views — the kind of tracker used to keep recurring sales reporting accurate
@@ -47,3 +49,4 @@ reported total actually tie back to the raw transactions?
 - `README.md` — this file
 - `sales_data.csv` — sample transaction data in the exact layout of the `Data` sheet
 - `formulas.md` — the exact formulas used in the workbook and what each one computes
+- `ANALYSIS.md` — business analysis computed from `sales_data.csv`: headline results, findings, and recommendations
