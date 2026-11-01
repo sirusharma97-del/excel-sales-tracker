@@ -1,0 +1,26 @@
+Order ID,Order Date,Customer ID,Region,Category,Product,Quantity,Unit Price,Status,Returned
+2001,2026-01-03,C-201,West,Electronics,Wireless Headphones,2,79.99,completed,N
+2002,2026-01-04,C-202,East,Home,Desk Lamp,1,34.50,completed,N
+2003,2026-01-07,C-203,Midwest,Clothing,Winter Jacket,1,119.00,completed,N
+2004,2026-01-09,C-201,West,Electronics,USB-C Cable,5,12.99,completed,N
+2005,2026-01-12,C-204,South,Home,Coffee Maker,1,89.95,completed,Y
+2006,2026-01-15,C-205,East,Electronics,Bluetooth Speaker,1,59.99,completed,N
+2007,2026-01-18,C-206,West,Clothing,Running Shoes,1,95.00,completed,N
+2008,2026-01-21,C-207,Midwest,Home,Storage Bins (4-pack),3,24.99,completed,N
+2009,2026-01-25,C-208,South,Electronics,Tablet Stand,2,29.99,completed,N
+2010,2026-01-28,C-202,East,Clothing,Denim Jeans,2,54.00,completed,N
+2011,2026-02-02,C-209,West,Electronics,Wireless Headphones,1,79.99,completed,N
+2012,2026-02-05,C-210,East,Home,Desk Lamp,2,34.50,completed,N
+2013,2026-02-08,C-203,Midwest,Electronics,USB-C Cable,4,12.99,completed,N
+2014,2026-02-11,C-211,South,Clothing,Winter Jacket,1,119.00,cancelled,N
+2015,2026-02-14,C-212,West,Home,Coffee Maker,1,89.95,completed,N
+2016,2026-02-17,C-206,West,Clothing,Running Shoes,1,95.00,completed,Y
+2017,2026-02-20,C-213,Midwest,Electronics,Bluetooth Speaker,2,59.99,completed,N
+2018,2026-02-23,C-214,East,Home,Storage Bins (4-pack),2,24.99,completed,N
+2019,2026-03-03,C-215,South,Electronics,Wireless Headphones,3,79.99,completed,N
+2020,2026-03-06,C-201,West,Home,Desk Lamp,1,34.50,completed,N
+2021,2026-03-10,C-216,East,Clothing,Denim Jeans,1,54.00,completed,N
+2022,2026-03-13,C-217,Midwest,Home,Coffee Maker,1,89.95,completed,N
+2023,2026-03-17,C-218,West,Electronics,Tablet Stand,2,29.99,completed,N
+2024,2026-03-21,C-219,South,Clothing,Running Shoes,1,95.00,completed,N
+2025,2026-03-25,C-220,East,Electronics,Bluetooth Speaker,1,59.99,completed,N
